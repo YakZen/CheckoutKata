@@ -1,0 +1,8 @@
+TestResults/*
+*/bin
+*/obj
+
+*.suo
+*.user
+
+.vs/
